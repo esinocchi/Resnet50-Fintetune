@@ -3,6 +3,8 @@
 
 A PyTorch implementation of a binary image classifier using ResNet50 with transfer learning. This model distinguishes between images of cats and dogs using feature extraction from a pre-trained ResNet50 model.
 
+Dataset: https://www.kaggle.com/datasets/tongpython/cat-and-dog
+
 ## Setup
 
 1. Create a virtual environment and install dependencies:
